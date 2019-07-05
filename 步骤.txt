@@ -1,0 +1,7 @@
+ 一：实现登录功能（public/admin/login.html）
+    给登录按钮注册点击事件，获取email和password的值，
+    判断用户是否真实的输入了邮箱和密码
+    输入了的话，向服务器端发送ajax请求
+    
+ 二：实现登录退出功能
+ 三：创建用户，user.html
